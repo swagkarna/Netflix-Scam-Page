@@ -9,3 +9,7 @@
 
 ## ScreenShot :
 
+
+  <p align="left">
+     <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_z9xTZipi357Q.png"
+  </p

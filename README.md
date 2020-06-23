@@ -7,6 +7,9 @@
 ## 3. Now go to workshop/mine.php and change the email with your email address
 ## 4. All the logs will be sent to your email and it will be saved as result.html
 
+## For video tutorial follow this link :
+### Click here https://youtu.be/keStLnK5Www
+
 
 ## Requirements :
 

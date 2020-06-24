@@ -29,11 +29,11 @@
    
      
    
-## Use it Wisely :
+## Happy Hacking :
 
-   <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" 
-   </p>
+ ![Netflix-Scam-Page](https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page/master/giphy.gif)
+
+
    
 ## Legal Disclaimer:
 

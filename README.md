@@ -24,7 +24,7 @@
     </p>
    
    <p align="left">
-     <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_WEGXqrXGKQwS.png"
+     <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_WEGXqrXGKQwS.png">
      </p>
    
      

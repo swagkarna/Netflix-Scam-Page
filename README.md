@@ -20,11 +20,11 @@
 
 
    <p align="left">
-    <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_z9xTZipi357Q.png">
+    <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_z9xTZipi357Q.png" width="500" height="600">
     </p>
    
    <p align="left">
-     <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_WEGXqrXGKQwS.png">
+     <img src="https://raw.githubusercontent.com/swagkarna/Netflix-Scam-Page-/master/oie_WEGXqrXGKQwS.png" width="500" height="600">
      </p>
    
      

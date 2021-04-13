@@ -1,4 +1,4 @@
-# Netflix-Scam-Page-
+# Netflix-Scam-Page 
 
 ## Installations :
 
